@@ -12,6 +12,10 @@
 
 <br>
 
-![Views](https://komarev.com/ghpvc/?username=jeremiasamado&color=cc0000&style=flat-square&label=INTRUSIONS_DETECTED)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=200&color=FF0000&background=00000000&center=true&vCenter=true&width=400&height=50&lines=%E2%9A%A0%EF%B8%8F+SYSTEM+OVERRIDE+%E2%9A%A0%EF%B8%8F;%E2%9A%A0%EF%B8%8F+INTRUSION+DETECTED+%E2%9A%A0%EF%B8%8F;%E2%9A%A0%EF%B8%8F+PROTOCOL+ZERO+%E2%9A%A0%EF%B8%8F" />
+
+<br>
+
+![Views](https://komarev.com/ghpvc/?username=jeremiasamado&color=cc0000&style=flat-square&label=%20)
 
 </div>
