@@ -4,19 +4,19 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&pause=500&color=666666&background=00000000&center=true&vCenter=true&width=600&height=30&lines=%3E+Scanning+local+network...;%3E+Vulnerability+found+at+port+80;%3E+Executing+exploit+module...;%3E+Payload+delivered+successfully.;%3E+Maintaining+persistence...;%3E+Logs+cleared." />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&pause=300&color=666666&background=00000000&center=true&vCenter=true&width=600&height=30&lines=%3E+Scanning+local+network...;%3E+Vulnerability+found+at+port+80;%3E+Executing+exploit+module...;%3E+Payload+delivered+successfully.;%3E+Maintaining+persistence...;%3E+Logs+cleared." />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&pause=1500&color=888888&background=00000000&center=true&vCenter=true&width=600&height=40&lines=NODE_01%3A+%5B+ENCRYPTED+%5D;NODE_02%3A+%5B+BREACHED+%5D;NODE_03%3A+%5B+ACTIVE_LINK+%5D;%3E%3E%3E+NEURAL+MAP+STABLE+%3C%3C%3C" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=24&pause=1000&color=888888&background=00000000&center=true&vCenter=true&width=600&height=40&lines=NODE_01%3A+%5B+ENCRYPTED+%5D;NODE_02%3A+%5B+BREACHED+%5D;NODE_03%3A+%5B+ACTIVE_LINK+%5D;%3E%3E%3E+NEURAL+MAP+STABLE+%3C%3C%3C" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&pause=800&color=CC0000&background=00000000&center=true&vCenter=true&width=600&height=40&lines=%5B%E2%96%88%E2%96%88%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%5D+20%25+BOOTING...;%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%92%E2%96%92%E2%96%92%E2%96%92%5D+60%25+FIREWALL_CHECK...;%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+100%25+SYSTEM_SECURE" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=24&pause=800&color=CC0000&background=00000000&center=true&vCenter=true&width=600&height=40&lines=%5B%E2%96%88%E2%96%88%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%5D+20%25+BOOTING...;%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%92%E2%96%92%E2%96%92%E2%96%92%5D+60%25+FIREWALL_CHECK...;%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+100%25+SYSTEM_SECURE" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=200&color=FF0000&background=00000000&center=true&vCenter=true&width=400&height=50&lines=%E2%9D%97+SYSTEM+OVERRIDE+%E2%9D%97;%E2%9D%97+INTRUSION+DETECTED+%E2%9D%97;%E2%9D%97+PROTOCOL+ZERO+%E2%9D%97" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&weight=700&size=45&pause=200&color=FF0000&background=00000000&center=true&vCenter=true&width=600&height=60&lines=%E2%9D%97+SYSTEM+OVERRIDE+%E2%9D%97;%E2%9D%97+INTRUSION+DETECTED+%E2%9D%97;%E2%9D%97+PROTOCOL+ZERO+%E2%9D%97" />
 
 <br>
 
@@ -24,6 +24,6 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&pause=1000&color=FF0000&background=00000000&center=true&vCenter=true&width=600&height=40&lines=%E6%AD%BB%E3%81%AC%E3%81%BE%E3%81%A7%E6%88%A6%E3%81%86+%E2%80%94+FIGHT+UNTIL+DEATH" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=35&pause=1000&color=FF0000&background=00000000&center=true&vCenter=true&width=600&height=50&lines=%E6%AD%BB%E3%81%AC%E3%81%BE%E3%81%A7%E6%88%A6%E3%81%86" />
 
 </div>
