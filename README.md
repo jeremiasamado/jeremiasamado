@@ -16,7 +16,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=200&color=FF0000&background=00000000&center=true&vCenter=true&width=400&height=50&lines=%E2%9A%A0%EF%B8%8F+SYSTEM+OVERRIDE+%E2%9A%A0%EF%B8%8F;%E2%9A%A0%EF%B8%8F+INTRUSION+DETECTED+%E2%9A%A0%EF%B8%8F;%E2%9A%A0%EF%B8%8F+PROTOCOL+ZERO+%E2%9A%A0%EF%B8%8F" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=200&color=FF0000&background=00000000&center=true&vCenter=true&width=400&height=50&lines=%E2%9D%97+SYSTEM+OVERRIDE+%E2%9D%97;%E2%9D%97+INTRUSION+DETECTED+%E2%9D%97;%E2%9D%97+PROTOCOL+ZERO+%E2%9D%97" />
 
 <br>
 
