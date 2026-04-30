@@ -8,6 +8,10 @@
 
 <br>
 
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&pause=1500&color=888888&background=00000000&center=true&vCenter=true&width=600&height=40&lines=NODE_01%3A+%5B+ENCRYPTED+%5D;NODE_02%3A+%5B+BREACHED+%5D;NODE_03%3A+%5B+ACTIVE_LINK+%5D;%3E%3E%3E+NEURAL+MAP+STABLE+%3C%3C%3C" />
+
+<br>
+
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&pause=800&color=CC0000&background=00000000&center=true&vCenter=true&width=600&height=40&lines=%5B%E2%96%88%E2%96%88%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%5D+20%25+BOOTING...;%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%92%E2%96%92%E2%96%92%E2%96%92%5D+60%25+FIREWALL_CHECK...;%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+100%25+SYSTEM_SECURE" />
 
 <br>
