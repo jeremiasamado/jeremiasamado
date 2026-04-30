@@ -24,10 +24,10 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=30&pause=500&color=CC0000&background=00000000&center=true&vCenter=true&width=600&height=50&lines=%E2%96%AC%E2%96%AC%CE%B9;%E2%96%AC%E2%96%AC%CE%B9%E2%95%90%E2%95%90%E2%95%90%E2%95%90;%E2%96%AC%E2%96%AC%CE%B9%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%AD;%E2%96%AC%E2%96%AC%CE%B9%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%AD" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=30&pause=500&color=CC0000&background=00000000&center=true&vCenter=true&width=600&height=50&lines=%E2%96%AC%E2%96%AC%E2%96%AC%CE%B9;%E2%96%AC%E2%96%AC%E2%96%AC%CE%B9%E2%94%81%E2%94%81%E2%94%81%E2%94%81;%E2%96%AC%E2%96%AC%E2%96%AC%CE%B9%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%9E%A4" />
 
 <br>
 
-*死ぬまで戦う — Fight until death.*
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&pause=1000&color=FF0000&background=00000000&center=true&vCenter=true&width=600&height=40&lines=%E6%AD%BB%E3%81%AC%E3%81%BE%E3%81%A7%E6%88%A6%E3%81%86+%E2%80%94+FIGHT+UNTIL+DEATH" />
 
 </div>
