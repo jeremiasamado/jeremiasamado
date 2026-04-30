@@ -22,4 +22,12 @@
 
 ![Views](https://komarev.com/ghpvc/?username=jeremiasamado&color=cc0000&style=flat-square&label=%20)
 
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=30&pause=500&color=666666&background=00000000&center=true&vCenter=true&width=600&height=50&lines=%E2%96%AC%E2%96%AC%CE%B9;%E2%96%AC%E2%96%AC%CE%B9%E2%95%90%E2%95%90%E2%95%90%E2%95%90;%E2%96%AC%E2%96%AC%CE%B9%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%AD;%E2%96%AC%E2%96%AC%CE%B9%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%AD" />
+
+<br>
+
+*死ぬまで戦う — Fight until death.*
+
 </div>
